@@ -8,7 +8,7 @@ A feature rich and flexible textbox control for ReactJS with support for length 
 4. Typescript
 
 # Demo
-A live demo will come soon. (As soon as I can figure out how GitHub Pages work)
+Live demo: https://jobanputra.github.io/TextBoxWithLabel/
 
 # Features
 1. Observable value: React to what the user enters.
